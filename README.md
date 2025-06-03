@@ -9,9 +9,13 @@ input image:
 
 
 Output:
+
+
 <img width="767" alt="image" src="https://github.com/user-attachments/assets/6fb57610-7898-4b1f-88df-6df014a8e377" />
 
 
 
 The languages that are used are:
+
+
 HTML and CSS
