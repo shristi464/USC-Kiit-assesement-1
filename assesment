@@ -1,0 +1,26 @@
+<html>
+    <head>
+    <title>Developer page</title>
+    </head>
+
+<body style="background-color: black;">
+    <div style="background-color: black;margin-left: 4cm; float: inline-start;"> <img src="https://img.freepik.com/free-photo/hidden-waterfall-paradise_23-2151951200.jpg?semt=ais_hybrid&w=740" height="50" width="50"></div>
+    <div style="color: azure; margin-left: 6cm; margin-top: 0.5cm;">HOME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ABOUT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SERVICES&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;BLOG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MORE</div>
+    <div style="margin-left: 25cm;">
+        <input type="button"  value="Contact" style="background-color: aqua; width: 2cm; height: 1cm;" />  
+    </div>
+    <div style="margin-top: 3cm ;background-color: none; margin-left: 1.5cm; float: inline-start;">
+        <img src="https://img.freepik.com/free-photo/hidden-waterfall-paradise_23-2151951200.jpg?semt=ais_hybrid&w=740" height="470" width="300">
+    </div>
+    <div style="margin-top: 5cm; margin-left: 15cm;">
+        
+            <p style="color: rgb(30, 207, 148); font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; line-height: 1px;">CODEWITHRANDOM</p>
+            <p style="color: azure; font-size: 45; font-family: serif; line-height: 1px;">I'm a Web</p>
+            <p style="color:rgb(30, 207, 148) ; font-family: serif; font-size: 45; line-height: 10px; ">Developer</p>
+            <p style="color: azure;font-size: 12; line-height: 20px;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat ut eligendi tempore, velit ipsum ex dolorem ad voluptatem quae.
+                 Repellat ipsum quaerat voluptate qui similique omnis reiciendis doloribus ab corrupti.</p>
+            <p><input type="text" value="DOWNLOAD CV" style="border-color: hsl(160, 90%, 43%); color:hsl(160, 90%, 43%) ; text-align: center; background-color: black; line-height: 20px;"></p>
+    </div>
+</body>
+</html>
